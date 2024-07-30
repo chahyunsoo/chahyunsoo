@@ -4,8 +4,6 @@
 - 👨🏻‍💻 I aspire to become a backend engineer.
 - 👊 Currently developing and studying backend with Java, while also having a enthusiasm for infrastructure.
   
-## ![chahyunsoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=chahyunsoo&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chahyunsoo&show_icons=true&theme=transparent)
 
-## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chahyunsoo&langs_count=10&layout=compact)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chahyunsoo&langs_count=10&layout=compact&theme=transparent)
